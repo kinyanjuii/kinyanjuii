@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kinyanjui
-- 👀 I’m interested in developing web and aplications.
+- 👀 I’m interested in developing web and mobile applications.
 - 🌱 I’m currently learning web development and kotlin 
 - 💞️ I’m looking to collaborate on developing kotlin applications.
 - 📫 Reach me through this mail kelvinkinyanjui543@gmail.com
